@@ -139,7 +139,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 5 | [@rfearing](https://github.com/rfearing)/[**temp-covid-resources**](https://github.com/rfearing/temp-covid-resources) | Available resources for those in need during the CoronaVirus Pandemic |
  | 3 | [@jmcastagnetto](https://github.com/jmcastagnetto)/[**covid-19-peru-data**](https://github.com/jmcastagnetto/covid-19-peru-data) | Datos de casos confirmados, descartados, defunciones y recuperados, transcritos de los tweets del MINSA (https://twitter.com/Minsa_Peru) y de las notas en: https://www.gob.pe/busquedas?contenido[]=noticias&amp;institucion[]=minsa&amp;reason=sheet&amp;sheet=1 |
  | 1 | [@PhantasWeng](https://github.com/PhantasWeng)/[**coronavirus-daily-dashboard**](https://github.com/PhantasWeng/coronavirus-daily-dashboard) | Coronavirus daily dashboard. 新冠病毒每日追蹤 |
-
+ | 1 | [@sdudnic](https://github.com/sdudnic)/[**COVID-19 graphs by country**](https://github.com/sdudnic/covid-19) | Covid-19 graphs & stats by country updated live.|
 #### Models
 
 | :star2:     | Repository   | Description  |
@@ -211,7 +211,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 1 | [@nutboltu](https://github.com/nutboltu)/[**australia-covid19**](https://github.com/nutboltu/australia-covid19) | https://australia-covid19.herokuapp.com/ |
  | 1 | [@nploi](https://github.com/nploi)/[**corona_tracker**](https://github.com/nploi/corona_tracker) | :bar_chart: Corona virus tracker app for IOS and Android. |
  | 0 | [@LuisReinoso](https://github.com/LuisReinoso)/[**covid-19-community-tracker**](https://github.com/LuisReinoso/covid-19-community-tracker) | Check if you are near of suspected cases of covid-19. Self-report. No data is revealed. |
-
+ | 0 | [@sdudnic](https://github.com/sdudnic)/[**covid-19-graps by country**](https://github.com/sdudnic/covid-19) | Hourly updated stats and graphs on the COVID-19 evolution by country |
 #### Packages and Scripts
 
 | :star2:     | Repository   | Description  |
@@ -323,6 +323,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID-19 en Perú](https://castagnetto.site/peru/dashboard-peru-covid-19.html) | COVID-19: Casos totales tamizados en el Perú |
 | [COVID-19 Türkiye](https://ozdemirburak.com/koronavirus-haritasi) | Coronavirus dashboard and map in Turkish. |
 | [COVID-19 projects aggregator](https://covid19projects.now.sh?source=awesome-coronavirus-github) | COVID-19 projects in one place |
+| [COVID-19 Hourly updated stats & graphs](https://dudnic.com/covid-19) | Covid-19 graphs and stats by country, updates several times a day. |
 
 #### Android Apps
 
